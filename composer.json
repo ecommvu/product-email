@@ -1,0 +1,25 @@
+{
+    "name": "Ecommvu/productemail",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ecommvu",
+            "email": "support@ecommvu.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ecommvu\\ProductEmail\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Ecommvu\\ProductEmail\\ProductEmailServiceProvider"
+            ],
+            "aliases": {}
+        }
+    },
+    "minimum-stability": "dev"
+}
