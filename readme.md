@@ -1,4 +1,6 @@
-# Ecommvu ProductEmail v0.0.1
+[![Github All Releases](https://img.shields.io/github/downloads/ecommvu/product-email/total.svg)]()
+
+# Ecommvu ProductEmail
 
 # Introduction:
 
