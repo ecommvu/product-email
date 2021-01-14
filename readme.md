@@ -30,6 +30,7 @@ This package is implements a feature which enables you to send product email to 
 "Ecommvu\\ProductEmail\\": "packages/Ecommvu/ProductEmail/src"
 ```
 
+
 * Do entry in config/app.php, inside providers array preferably at the end of it:
 
 ```
